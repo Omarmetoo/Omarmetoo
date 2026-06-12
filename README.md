@@ -1,4 +1,4 @@
-# Hey, I'm Omar 👋
+# Hi, I'm Omar
 
 **Full-Stack Engineer · AI Integrations · Cairo, Egypt**
 
@@ -8,7 +8,7 @@ Currently open to **freelance projects** and **remote opportunities** — especi
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -28,7 +28,7 @@ Currently open to **freelance projects** and **remote opportunities** — especi
 
 ---
 
-## 🚀 Featured Project — Mkank
+## Featured Project — Mkank
 
 > Smart rental platform with AI at its core.
 
@@ -36,21 +36,19 @@ Currently open to **freelance projects** and **remote opportunities** — especi
 
 **Stack:** Next.js · React · MongoDB · Node.js · JWT · Tailwind CSS · Pannellum · VADER · TF-IDF · Claude API
 
-**[Live Demo](#) · [GitHub Repo](#)**
+**[Live Demo](https://mkank-beige.vercel.app/) · [GitHub Repo](#)**
 
 ---
 
-## 📌 Other Projects
+## Other Projects
 
-<!-- Pin your best 2-3 repos below — update links when ready -->
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [Portfolio](#) | Personal developer portfolio with dark mode, animations, SEO | Next.js, Tailwind, Framer Motion |
-| [Coming soon](#) | — | — |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Omarmetoo&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=94A3B8" height="165" />
@@ -59,7 +57,7 @@ Currently open to **freelance projects** and **remote opportunities** — especi
 
 ---
 
-## 🤝 Let's Work Together
+## Let's Work Together
 
 I'm available for freelance contracts — web apps, full-stack builds, AI integrations, and API development.
 
@@ -71,4 +69,3 @@ I'm available for freelance contracts — web apps, full-stack builds, AI integr
 ---
 
 <sub>Open to full-time remote roles too — feel free to reach out.</sub>
-
