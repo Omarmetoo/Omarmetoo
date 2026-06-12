@@ -40,13 +40,6 @@ Currently open to **freelance projects** and **remote opportunities** — especi
 
 ---
 
-## Other Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Portfolio](#) | Personal developer portfolio with dark mode, animations, SEO | Next.js, Tailwind, Framer Motion |
-
----
 
 ## GitHub Stats
 
